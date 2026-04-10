@@ -1,4 +1,4 @@
-<img width="785" height="62" alt="image" src="https://github.com/user-attachments/assets/9c57bf2f-c266-46ee-9cd3-e0b779d8517e" /># 📄 iylock Style – Song Structure Notation System
+# 📄 iylock Style – Song Structure Notation System
 ## Overview
 
 **iylock Style** is a song structure notation system designed to organize and communicate musical form in a clear and repeatable way.
