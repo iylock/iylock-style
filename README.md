@@ -5,32 +5,52 @@
 
 It is intended for practical use in music arrangement and performance contexts, where structural clarity is more important than strict academic labeling.
 
-## Purpose
+## Preface
+I could not find a clearly organized system for song structure(song form) notation. So, I organized it for practical use. I developed this while using it in a local church band for two years. Now, there are no major issues in using it.
 
-Traditional song structure labels such as Verse, Chorus, and Pre-Chorus can become ambiguous when:
+When I decided to make it public online, I realized that it needed a name so that people could easily find this document. Also, this notation is merely my own model and is not academic. A model needs to be continuously updated if necessary. I thought that required a name.
 
-- Sections repeat with different energy or function
-- Musical roles change depending on position in the song
-- Quick structural communication is required in rehearsal or production settings
+Therefore, to signify a commitment to continuous learning and development, I transliterated "iylock"—which I call the "iylock Mindset"—and used it as the name. Just as there are various citation styles such as APA, Chicago, and MLA, I consider my song structure notation to be one of many possible styles, and I describe it as a style.
 
-This system was developed to address those challenges by providing a consistent way to describe song structure.
+The list of song sections and symbols followed multitracks.com exactly. The same applies to most dynamic cues. My contributions were to clarify the criteria for classifying sections in my own way, to divide parts in order to express the structure of sections for smooth communication within the band, and to establish notations for dynamic cues and section carryover.
 
-## Core Concept
-
-Instead of treating section labels as fixed categories, iylock Style focuses on structural flow and positional identity within a song.
-
-Sections are indexed based on their occurrence and functional role within the overall progression.
+I have identified areas that need modification and development, and I plan to continue developing them gradually.
 
 ## Example Notation
-### NewJeans – Ditto
+### Welcome to the Show - DAY6
+A : Vp – I – V1 – V2 – Pr1 – C1 – C2 -  
+A’: Ta – V3 – Pr2 – C1 – C2 -  
+B : B – It – C2 – C1 – C1(Ac) - E  
 
+### Ditto – NewJeans
 A: I – C1 – V1 – V2 – Pr1 – Pr2 – C1 – C2  
 A’: V3 – Pr2 – C1 – C2 – O – E  
 
-### (G)I-DLE – Queencard
+### Wake (Live) - Hillsong Young & Free
+A : I – V1 – V2 – Pr – Is – C -  
+A’: Ta – V2 – Pr – Is – C -  
+B : Vp – B1 – B2 –  
+C : Pr – Is – C – O - E  
 
-A: I – V1 – V2 – Pr – C – Po  
-A’: It – V3 – Pr – C – Po – Rf – O – E  
+### Praise – Elevation Worship
+A : I – Rf – V1 – V2 – Pr – C1 –  
+A’: V3 – V4 – Pr – C1 – C2 -  
+B : Vp – B – B –  
+C : (Bk)C1(Bu) – C1 – Tg – Tg – C2 -  
+D : Is – Rf – Rf - E  
+
+### Turn It Up (Live) – Planetshakers
+A : I – V1 – Pr – C –  
+A’: It – V2 – (Bk)Pr – C – C –  
+B : Is – Rf – Rf – B – (Ac)C(Bu) – C - E  
+
+### 모든 생명들아 소리쳐 – WELOVE
+A : I – V1 – V2* – It – C* -  
+A’: Ta – V3 – V4* – It – C – Rf(Bu) – Rf – (Bu)Rf* – It -  
+B : (Bd)V5* – It – Is – B – B – B(Bu) – It -  
+C : C – Rf(Bu) – Rf(Bk) – Tg(slow) – E(big)  
+
+
 
 ## System Notes
 - This is a personal notation model, not an academic standard
