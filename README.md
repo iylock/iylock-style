@@ -1,32 +1,54 @@
-# iylock Style for Song Structure Notation
-iylock style has been publicly released online!🎉🥳
+# 📄 iylock Style – Song Structure Notation System
+## Overview
 
+**iylock Style** is a song structure notation system designed to organize and communicate musical form in a clear and repeatable way.
 
-## Preface
-I could not find a clearly organized system for song structure notation. So, I organized it for practical use. I developed this while using it in a local church band for two years. Now, there are no major issues in using it.
+It is intended for practical use in music arrangement and performance contexts, where structural clarity is more important than strict academic labeling.
 
-When I decided to make it public online, I realized that it needed a name so that people could easily find this document. Also, this notation is merely my own model and is not academic. A model needs to be continuously updated if necessary. I thought that required a name.
+## Purpose
 
-Therefore, to signify a commitment to continuous learning and development, I transliterated "iylock"—which I call the "iylock Mindset"—and used it as the name. Just as there are various citation styles such as APA, Chicago, and MLA, I consider my song structure notation to be one of many possible styles, and I describe it as a style.
+Traditional song structure labels such as Verse, Chorus, and Pre-Chorus can become ambiguous when:
 
-The list of song sections and symbols followed multitracks.com exactly. The same applies to most dynamic cues. My contributions were to clarify the criteria for classifying sections in my own way, to divide parts in order to express the structure of sections for smooth communication within the band, and to establish notations for dynamic cues and section carryover.
+- Sections repeat with different energy or function
+- Musical roles change depending on position in the song
+- Quick structural communication is required in rehearsal or production settings
 
-I have identified areas that need modification and development, and I plan to continue developing them gradually.
+This system was developed to address those challenges by providing a consistent way to describe song structure.
 
-Heeyoun Lee (April 10, 2026)  
-South Korea
+## Core Concept
 
+Instead of treating section labels as fixed categories, iylock Style focuses on structural flow and positional identity within a song.
+
+Sections are indexed based on their occurrence and functional role within the overall progression.
+
+## Example Notation
+### NewJeans – Ditto
+
+A: I – C1 – V1 – V2 – Pr1 – Pr2 – C1 – C2  
+A’: V3 – Pr2 – C1 – C2 – O – E  
+
+### (G)I-DLE – Queencard
+
+A: I – V1 – V2 – Pr – C – Po  
+A’: It – V3 – Pr – C – Po – Rf – O – E  
+
+## System Notes
+- This is a personal notation model, not an academic standard
+- It functions as a “style system”, similar in concept to citation styles (APA, MLA, Chicago, etc.)
+- The system may evolve over time as usage and feedback develop
 
 ## References
-MultiTracks.com. (2019, February 18). *Updated song sections & guide cues!* [Blog post]. https://www.multitracks.com/blog/updated-song-sections-guide-cues (Accessed May 15, 2024)  
+MultiTracks.com. (2019, February 18). *Updated song sections & guide cues!* [Blog post]. https://www.multitracks.com/blog/updated-song-sections-guide-cues (Accessed May 15, 2024)
+
 MultiTracks.com. (n.d.). *Click & guide* [Audio files]. https://www.multitracks.com/free/. https://multitracks.blob.core.windows.net/public/content/free/Click_and_Guide_Samples.zip (Accessed May 15, 2024)
 
+## Version History
+v20250203 – Initial internal development  
+v20250703 – Structural revision  
+v20251225 – Refinement  
+v20260410 – Public release (GitHub Pages)  
 
-## Revision History
-+ v20250203 Initial release (internal only)
-+ v20250703 Revised
-+ v20251225 Revised
-+ v20260410 Revised (public release)
-
-
-
+## Author
+Heeyoun Lee  
+South Korea  
+2026
